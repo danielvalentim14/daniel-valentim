@@ -30,7 +30,6 @@ Aqui estão as ferramentas e linguagens que utilizo no meu dia a dia para desenv
 Alguns dos meus projetos recentes que refletem minha evolução prática:
 
 * **KaraokeJava**: Uma aplicação desktop em Java estruturada via Maven, utilizando a biblioteca JLayer para manipulação e reprodução de fluxos de áudio MP3, com foco em concorrência e gerenciamento de mídia.
-* **Labs de Infraestrutura e Segurança**: Repositórios focados em automação de scripts para Linux, configurações de ambiente e estudos práticos de redes e segurança.
 
 ---
 
@@ -38,8 +37,8 @@ Alguns dos meus projetos recentes que refletem minha evolução prática:
 
 Se quiser trocar uma ideia sobre desenvolvimento Java, ecossistema Linux ou segurança da informação:
 
-* **LinkedIn**: [Seu Nome Completo](https://linkedin.com/in/seu-usuario)
-* **E-mail**: [seu.email@provedor.com](mailto:seu.email@provedor.com)
+* **LinkedIn**: https://www.linkedin.com/in/daniel-valentim-dos-santos-bb0280359/
+* **E-mail**: danielvelentimdossantos14@gmail.com
 
 ---
 
