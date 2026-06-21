@@ -20,8 +20,6 @@ Aqui estão as ferramentas e linguagens que utilizo no meu dia a dia para desenv
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-#### 🛡️ Cybersecurity & Pentesting Labs
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ---
 
@@ -35,7 +33,7 @@ Alguns dos meus projetos recentes que refletem minha evolução prática:
 
 ### 📫 Como me encontrar
 
-Se quiser trocar uma ideia sobre desenvolvimento Java, ecossistema Linux ou segurança da informação:
+Se quiser trocar uma ideia sobre desenvolvimento Java e ecossistema Linux:
 
 * **LinkedIn**: [Daniel Valentim dos Santos](https://www.linkedin.com/in/daniel-valentim-dos-santos-bb0280359/)
 * **E-mail**: danielvelentimdossantos14@gmail.com
