@@ -37,7 +37,7 @@ Alguns dos meus projetos recentes que refletem minha evolução prática:
 
 Se quiser trocar uma ideia sobre desenvolvimento Java, ecossistema Linux ou segurança da informação:
 
-* **LinkedIn**: https://www.linkedin.com/in/daniel-valentim-dos-santos-bb0280359/
+* **LinkedIn**: [Daniel Valentim dos Santos](https://www.linkedin.com/in/daniel-valentim-dos-santos-bb0280359/)
 * **E-mail**: danielvelentimdossantos14@gmail.com
 
 ---
